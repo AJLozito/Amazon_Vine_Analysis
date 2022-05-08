@@ -7,10 +7,14 @@ The purpose of this project was to analyze potential bias in Amazon reviews by a
 
 ## Results:
 Vine reviews = 2,336
+
 ![image](https://user-images.githubusercontent.com/96176817/167312160-ab10d5ea-91b2-4e62-a381-6a00f9747d9a.png)
 
+
 Non-Vine reviews = 5,903,986
+
 ![image](https://user-images.githubusercontent.com/96176817/167312185-e9c73291-fe72-408c-a138-d871087dd61e.png)
+
 
 5 Star Reviews:
   -	Vine = 1,107
